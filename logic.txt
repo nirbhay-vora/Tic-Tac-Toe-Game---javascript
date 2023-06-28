@@ -1,0 +1,6 @@
+music and variable
+
+1.changeTurn
+2.gameLogic
+3.checkwin
+4.resetbutton
